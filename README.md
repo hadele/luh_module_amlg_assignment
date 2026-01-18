@@ -1,0 +1,1 @@
+Analysis of the Norman 2019 Perturb-seq dataset employed conservative MAD-based preprocessing, PCA, Leiden/UMAP clustering, and t-SNE visualization. Results reveal discrete clusters with central control cells and spatially separated perturbed states, confirming high-dimensional genetic interaction manifolds beyond one-dimensional fitness measures.
